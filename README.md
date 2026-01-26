@@ -15,7 +15,6 @@ This repository showcases my projects in **Data Science, Python programming, and
 
 ## 🔧 Tech Stack
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
 - PostgreSQL / pgAdmin
 - Git & GitHub
 
