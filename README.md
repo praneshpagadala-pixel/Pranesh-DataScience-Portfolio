@@ -10,7 +10,6 @@ This repository showcases my projects in **Data Science, Python programming, and
 
 ## 🚀 Projects Included
 - **Amazon Prime Video EDA** → Exploratory Data Analysis on Prime Video titles and credits datasets.
-- **Python Capstone Programs** → 30 well‑explained Python scripts for data science basics.
 - More projects coming soon!
 
 ## 🔧 Tech Stack
